@@ -834,6 +834,9 @@ body {
 	border: 1px solid #fff;
 	color: #fff;
 }
+.item-getintouch_active .item-getintouch__button:hover {
+	border-color: #ff7b47;
+}
 @media (min-width: 992px) {
 	.getintouch__items {
 		display: flex;
