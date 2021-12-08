@@ -1,5 +1,5 @@
 # Relvise landing page
 
-- Stack: HTML, CSS. 
+- Stack: HTML, CSS, BEM. 
 - Fully responsive layout was made by using Flexbox (mobiles, tablets, laptops, high screens). 
 - Click the link to see [DEMO]( https://junglq.github.io/Relvise/).
